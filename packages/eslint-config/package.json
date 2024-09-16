@@ -1,0 +1,13 @@
+{
+  "name": "@ignite-ui/eslint-config",
+  "private": true,
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Monorepo de configuração do ESLint",
+  "author": "Thiago Soares Figueiredo",
+  "license": "MIT",
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.1.3",
+    "eslint": "^8.57.0"
+  }
+}
