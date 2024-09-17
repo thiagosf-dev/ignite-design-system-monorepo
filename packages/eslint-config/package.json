@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/eslint-config",
+  "name": "@ignite-ui-projects/eslint-config",
   "private": true,
   "main": "index.js",
   "version": "1.0.0",

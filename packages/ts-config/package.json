@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@ignite-ui/ts-config",
+  "name": "@ignite-ui-projects/ts-config",
   "version": "1.0.0",
   "description": "Monorepo de configurações do TypeScript",
   "author": "Thiago Soares Figueiredo",

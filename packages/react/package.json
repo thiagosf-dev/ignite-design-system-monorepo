@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@ignite-ui-projects/react",
   "version": "1.0.0",
   "description": "Monorepo - ReactJS",
   "main": "./dist/index.js",
@@ -13,9 +13,9 @@
   "author": "Thiago Soares Figueiredo",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ignite-ui-projects/eslint-config": "*",
+    "@ignite-ui-projects/tokens": "*",
+    "@ignite-ui-projects/ts-config": "*",
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
     "react": "^18.3.1",

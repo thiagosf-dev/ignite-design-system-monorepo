@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ignite-ui-projects/docs",
   "version": "1.0.0",
   "description": "Monorepo de configuração do Storybook na versão 6",
   "main": "index.js",
@@ -25,10 +25,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ignite-ui-projects/eslint-config": "*",
+    "@ignite-ui-projects/react": "*",
+    "@ignite-ui-projects/tokens": "*",
+    "@ignite-ui-projects/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "@storybook/storybook-deployer": "^2.8.16",
     "phosphor-react": "^1.4.1",
