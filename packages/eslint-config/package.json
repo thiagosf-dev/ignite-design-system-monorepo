@@ -2,7 +2,7 @@
   "name": "@ignite-ui-projects/eslint-config",
   "private": true,
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Monorepo de configuração do ESLint",
   "author": "Thiago Soares Figueiredo",
   "license": "MIT",
