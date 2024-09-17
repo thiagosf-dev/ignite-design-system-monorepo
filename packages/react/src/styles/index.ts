@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@ignite-ui-projects/tokens'
 /**
  * arquivo responsável por conter as configurações do Stitches
  */
