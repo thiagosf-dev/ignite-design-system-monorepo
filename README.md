@@ -11,5 +11,5 @@ npm run version-packages
 ```
 
 ```shell
-npm run changeset
+npm run release
 ```
